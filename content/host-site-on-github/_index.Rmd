@@ -51,7 +51,7 @@ publishDir = "docs"
 
 #### Publish site on GitHub
 
-After run the `blogdown::server_site()` function and push all commits to GitHub, go to the github repository, click **settings**, find the **GitHub Pages** section, and then select **master branch /docs folder** and save.
+After run the `blogdown::serve_site()` function and push all commits to GitHub, go to the github repository, click **settings**, find the **GitHub Pages** section, and then select **master branch /docs folder** and save.
 
 
 
